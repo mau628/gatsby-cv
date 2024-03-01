@@ -1,10 +1,9 @@
 module.exports = {
-  siteTitle: "Hi! I'm Alvaro!",
-  siteDescription: `This is my personal website`,
-  keyWords: ['gatsbyjs', 'react', 'curriculum'],
-  authorName: 'Alvaro Jimenez',
-  twitterUsername: 'ajimenezdev',
-  githubUsername: 'ajimenezdev',
+  siteTitle: "Jorge Gonzalez | Full Stack Developer",
+  siteDescription: `Jorge's resume website. Built with Gatsby.js.`,
+  keyWords: ['gatsbyjs', 'react', 'curriculum', 'resume'],
+  authorName: 'Jorge Gonzalez',
+  githubUsername: 'mau628',
   authorAvatar: '/images/avatar.jpg',
   authorDescription: `I'm a full-stack JS developer, I specialize in React/React Native and blockchain solutions. With previous experience in a variety of stacks, including React, AngularJs, .Net, Java, and Android, I am well-equipped to handle a range of development challenges.<br/><br/>
   In my current role as a remote frontend developer, I focus on Javascript, React/ReactNative and NodeJS technologies. I have worked with startups, medium-sized companies, and large corporations, giving me a diverse range of experience in different environments.<br/><br/>
